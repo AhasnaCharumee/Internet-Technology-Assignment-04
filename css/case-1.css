@@ -19,11 +19,13 @@ body{
     padding: 0 12px;
     margin-left: -130px;
     transition: all 1.5s ease-in-out;
+    color: white;
   }
   
   .icon {
     font-size: 24px;
     line-height: 50px;
+    color: white;
     
   }
   
